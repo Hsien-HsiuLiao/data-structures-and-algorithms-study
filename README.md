@@ -7,14 +7,14 @@ Don’t spend too little time on the prep work.
 If you spend too much time studying, you’ll never get to solve Leetcode/CTCI problems. Conversely, you’ll be lost if you spend too little time on the prep work. It is important that you spend the right amount of time for the prep work to make sure that you do not waste your time.
 
 ## Data Structures
-<li> Dynamic Array
-Linked List
-Stack & Queue
-Hash Tables
-Binary Search Tree
-Binary Heaps & Priority Queue
-Graphs
-Trie
+- Dynamic Array
+-Linked List
+-Stack & Queue
+-Hash Tables
+-Binary Search Tree
+-Binary Heaps & Priority Queue
+-Graphs
+-Trie
 
 ## Algorithms
 <li> Bit Manipulation & Numbers — difference btw Unsigned vs signed numbers
