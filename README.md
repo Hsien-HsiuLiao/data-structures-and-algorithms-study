@@ -39,21 +39,21 @@
 > - Count connected components in a graph
 > - Find strongly connected components in a graph
   
-## Prep work
-Once you are comfortable with the data structures & algorithms above, do the following exercise multiple times (at least 2–3 times) until you can do them with your eyes closed.
+> ## Prep work
+> Once you are comfortable with the data structures & algorithms above, do the following exercise multiple times (at least 2–3 times) until you can do them with your eyes closed.
 
-Implement an ArrayList from scratch
-Reverse a linked list
-Implement a Stack & a Queue using Array
-Implement a HashTable with simple Hashing functions
-Implement a Graph using Adjacency List, and then write functions for BFS & DFS.
-Write the binary search algorithm both recursively and iteratively
-Write the merge sort algorithm
-Write the quicksort algorithm
-Print binary tree using DFS (in-order, preorder and post order — all three of them) and BFS.
-Memorize time & space complexities for common algorithms. Here’s an interesting website.
-Implement a trie.
-Learn these important bit manipulation tricks.
+> - Implement an ArrayList from scratch
+> - Reverse a linked list
+> - Implement a Stack & a Queue using Array
+> - Implement a HashTable with simple Hashing functions
+> - Implement a Graph using Adjacency List, and then write functions for BFS & DFS.
+> - Write the binary search algorithm both recursively and iteratively
+> - Write the merge sort algorithm
+> - Write the quicksort algorithm
+> - Print binary tree using DFS (in-order, preorder and post order — all three of them) and BFS.
+> - Memorize time & space complexities for common algorithms. Here’s an interesting website.
+> - Implement a trie.
+> - Learn these important bit manipulation tricks.
 
 ## Resources
 - beiatrix https://www.youtube.com/playlist?list=PLu_sD_1ixKmhufvEeg2cCq4Wah7t3f91d
