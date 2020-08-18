@@ -2,13 +2,13 @@
 
 - https://www.alimirio.com/posts/read-this-before-you-start-solving-problems-on-leetcode-prep-work
 
-1. Don’t spend too much time on the prep work.
-2. Don’t spend too little time on the prep work.
+> 1. Don’t spend too much time on the prep work.
+> 2. Don’t spend too little time on the prep work.
 
-If you spend too much time studying, you’ll never get to solve Leetcode/CTCI problems. Conversely, you’ll be lost if you spend too little time on the prep work. It is important that you spend the right amount of time for the prep work to make sure that you do not waste your time.
+> If you spend too much time studying, you’ll never get to solve Leetcode/CTCI problems. Conversely, you’ll be lost if you spend too little time on the prep work. It is important that you spend the right amount of time for the prep work to make sure that you do not waste your time.
 
-## Data Structures
-- Dynamic Array
+> ## Data Structures
+> - Dynamic Array
 - Linked List
 - Stack & Queue
 - Hash Tables
