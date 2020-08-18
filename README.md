@@ -58,5 +58,5 @@ Learn these important bit manipulation tricks.
 ## Resources
 - beiatrix https://www.youtube.com/playlist?list=PLu_sD_1ixKmhufvEeg2cCq4Wah7t3f91d
 - Traversy Media https://www.youtube.com/watch?v=wtynhUwS5hI https://www.youtube.com/watch?v=ZBdE8DElQQU
-- FCC https://www.youtube.com/watch?v=t2CEgPsws3U
+- FCC https://www.youtube.com/watch?v=t2CEgPsws3U (data structures and algorithms)
 - Google engineer https://www.youtube.com/watch?v=RBSGKlAvoiM (data structures) 
