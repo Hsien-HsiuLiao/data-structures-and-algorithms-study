@@ -54,3 +54,7 @@ Print binary tree using DFS (in-order, preorder and post order — all three of 
 Memorize time & space complexities for common algorithms. Here’s an interesting website.
 Implement a trie.
 Learn these important bit manipulation tricks.
+
+## Resources
+- beiatrix https://www.youtube.com/playlist?list=PLu_sD_1ixKmhufvEeg2cCq4Wah7t3f91d
+- Traversy Media https://www.youtube.com/watch?v=wtynhUwS5hI
