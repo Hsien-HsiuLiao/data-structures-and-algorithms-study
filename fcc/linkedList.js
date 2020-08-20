@@ -33,4 +33,24 @@ function LinkedList() {
     length++;
     // my solution
   };
+  
+  /* fcc solution
+  this.add = function(element){
+    var node = new Node(element);
+    if(head === null){
+        head = node;
+    } else {
+      var currentNode = head;
+
+      while(currentNode.next){
+        currentNode  = currentNode.next;
+      }
+
+      currentNode.next = node;
+    }
+
+    length++;
+  };
+  */
+  
 }
