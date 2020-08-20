@@ -20,7 +20,7 @@
 > ## Algorithms
 > - Bit Manipulation & Numbers — difference btw Unsigned vs signed numbers
 > - Stability in Sorting
-> - Mergesort
+> - Mergesort https://www.youtube.com/watch?v=Kg4bqzAqRBM
 > - Quicksort
 > - Heapsort — Sort it in-place to get O(1) space
 > - Binary Search
