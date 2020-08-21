@@ -20,8 +20,8 @@
 > ## Algorithms
 > - Bit Manipulation & Numbers — difference btw Unsigned vs signed numbers
 > - Stability in Sorting
-> - Mergesort https://www.youtube.com/watch?v=Kg4bqzAqRBM
-> - Quicksort
+> - Mergesort https://www.youtube.com/watch?v=Kg4bqzAqRBM https://www.geeksforgeeks.org/merge-sort/
+> - Quicksort https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm
 > - Heapsort — Sort it in-place to get O(1) space
 > - Binary Search
 > - Selections — Kth Smallest Elements (Sort, QuickSelect, Mediums of Mediums) — Implement all three ways
