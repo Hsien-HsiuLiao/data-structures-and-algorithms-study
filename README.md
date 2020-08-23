@@ -12,7 +12,7 @@
 > - Linked List
 > - Stack & Queue
 > - Hash Tables
-> - Binary Search Tree
+> - Binary Search Tree https://www.youtube.com/watch?v=9Jry5-82I68 (MIT)
 > - Binary Heaps & Priority Queue
 > - Graphs
 > - Trie
