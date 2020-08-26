@@ -16,6 +16,11 @@
 > - Binary Heaps & Priority Queue
 > - Graphs
 > - Trie
+> 
+> https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c -At a high level, there are basically three types of data structures. 
+> - Stacks and Queues are array-like structures that differ only in how items are inserted and removed. 
+> - Linked Lists, Trees, and Graphs are structures with nodes that keep references to other nodes. 
+> - Hash Tables depend on hash functions to save and locate data.
 
 > ## Algorithms
 > - Bit Manipulation & Numbers — difference btw Unsigned vs signed numbers
