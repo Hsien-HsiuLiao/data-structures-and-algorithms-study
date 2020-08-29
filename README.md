@@ -29,7 +29,7 @@
 > - Quicksort https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm
 > - Heapsort — Sort it in-place to get O(1) space
 > - Binary Search
-> - Selections — Kth Smallest Elements (Sort, QuickSelect, Mediums of Mediums) — Implement all three ways
+> - Selections — Kth Smallest Elements (Sort, QuickSelect, Mediums of Mediums) — Implement all three ways https://medium.com/weekly-webtips/how-to-find-kth-largest-smallest-element-in-an-array-6d91286af3c7
 > - Permutations
 > - Subsets
 > - BFS Graph
