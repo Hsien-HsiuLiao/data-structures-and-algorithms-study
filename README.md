@@ -70,7 +70,10 @@
 
 ## leetcode videos
 - https://www.youtube.com/channel/UCvHXUZ7P4wWQ-8LCAg_anQA/featured
+- https://www.youtube.com/watch?v=O7C6PlovZC8
 
 ## practice
 - https://www.freecodecamp.org/learn/
 - https://leetcode.com/
+- https://www.meetup.com/LearnTeachCode
+- https://leetcode.com/problems/bulls-and-cows/
