@@ -67,3 +67,10 @@
 - Google engineer https://www.youtube.com/watch?v=RBSGKlAvoiM (data structures) https://www.youtube.com/watch?v=09_LlHjoEiY (algorithm)
 - https://www.freecodecamp.org/news/best-books-data-structures-and-algorithms-javascript/
 - https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+
+## leetcode videos
+- https://www.youtube.com/channel/UCvHXUZ7P4wWQ-8LCAg_anQA/featured
+
+## practice
+- https://www.freecodecamp.org/learn/
+- https://leetcode.com/
