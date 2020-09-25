@@ -74,6 +74,7 @@
 ## leetcode videos
 - https://www.youtube.com/channel/UCvHXUZ7P4wWQ-8LCAg_anQA/featured
 - https://www.youtube.com/watch?v=O7C6PlovZC8
+- https://www.youtube.com/c/ThinkFWD/playlists
 
 ## practice
 - https://www.freecodecamp.org/learn/
