@@ -72,7 +72,7 @@
 - https://github.com/Hsien-HsiuLiao/javascript-algorithms-and-data-structures repository contains JavaScript based examples of many popular algorithms and data structures.Each algorithm and data structure has its own separate README with related explanations and links for further reading (including ones to YouTube videos). data structure readme has summary, Pseudocode for Basic Operations, time and space complexities. Algorithms sorted by topic, paradigm. Can run tests on data structures.
 
 ## leetcode videos
-- https://www.youtube.com/channel/UCvHXUZ7P4wWQ-8LCAg_anQA/featured
+- https://www.youtube.com/channel/UCvHXUZ7P4wWQ-8LCAg_anQA/featured KA Education
 - https://www.youtube.com/watch?v=O7C6PlovZC8
 - https://www.youtube.com/c/ThinkFWD/playlists
 
