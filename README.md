@@ -64,6 +64,7 @@
 - beiatrix https://www.youtube.com/playlist?list=PLu_sD_1ixKmhufvEeg2cCq4Wah7t3f91d
 - Traversy Media https://www.youtube.com/watch?v=wtynhUwS5hI https://www.youtube.com/watch?v=ZBdE8DElQQU
 - FCC https://www.youtube.com/watch?v=t2CEgPsws3U (data structures and algorithms)
+- fCC (python, algorithms) https://www.freecodecamp.org/news/python-algorithms-for-job-interviews/
 - Google engineer https://www.youtube.com/watch?v=RBSGKlAvoiM (data structures) https://www.youtube.com/watch?v=09_LlHjoEiY (algorithm)
 - https://www.freecodecamp.org/news/best-books-data-structures-and-algorithms-javascript/
 - https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
